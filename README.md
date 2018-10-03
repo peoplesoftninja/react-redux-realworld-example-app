@@ -13,6 +13,7 @@ We also have notes in [**our wiki**](https://github.com/gothinkster/react-redux-
 
 ## Getting started
 
+Testing if push works without configuring userid/password.
 You can view a live demo over at https://react-redux.realworld.io/
 
 To get the frontend running locally:
